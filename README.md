@@ -33,14 +33,14 @@ A lightweight Bash script to analyse key performance stats on any Linux server. 
 **1. Clone or download the script**
 
 ```bash
-git clone https://github.com/your-username/server-stats.git
+git clone https://github.com/Gbolahan28/server-performance-stats.git
 cd server-stats
 ```
 
 Or download the file directly:
 
 ```bash
-curl -O https://raw.githubusercontent.com/your-username/server-stats/main/server-stats.sh
+curl -O https://github.com/Gbolahan28/server-performance-stats.git
 ```
 
 **2. Make it executable**
@@ -115,3 +115,7 @@ Top 5 Processes by CPU Usage:
 ## License
 
 MIT
+
+## Project URL
+
+https://github.com/Gbolahan28/server-performance-stats
